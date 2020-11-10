@@ -57,6 +57,8 @@ collaborate on the [Nordic Research Software Engineer community
 project](https://nordic-rse.org) and
 [NordicHPC](https://nordichpc.github.io).
 
+[Anne Fouilloux](https://github.com/annefou) is a research software engineer with a background in theoretical computer sciences and atmospheric physics. She is now working at the [Department of Geosciences, University of Oslo](https://www.mn.uio.no/geo/english/) (Norway) for the [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/) and leads the [NICEST2](https://neic.no/nicest2/) project.
+
 Together, we have decades of experience programming for science,
 mentoring, and teaching computing. We have seen a *crisis of
 computing*, where computing demands are increasing while there isn't a
